@@ -1,0 +1,5 @@
+print "What is the integer m?"
+var_m = Integer(gets.chomp)
+if var_m > 6
+  puts "m is bigger than six"
+end
